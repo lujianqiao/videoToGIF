@@ -1,0 +1,24 @@
+PODS:
+  - ImagePicker (3.1.0)
+  - PKHUD (5.2.0)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - ImagePicker
+  - PKHUD
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ImagePicker
+    - PKHUD
+    - SnapKit
+
+SPEC CHECKSUMS:
+  ImagePicker: db1fd7626337b2577c523bef5f499bbbe5a37079
+  PKHUD: dd5357ac65f26115c35c4a68e9b328053326c5fe
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: c994fe2c0166d7ff9f589c40396f8775b02ada74
+
+COCOAPODS: 1.6.0.beta.1

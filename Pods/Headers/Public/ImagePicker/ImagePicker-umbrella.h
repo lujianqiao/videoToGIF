@@ -1,0 +1,1 @@
+/Users/yuanyuping/Desktop/VideoToGIF/Pods/Target Support Files/ImagePicker/ImagePicker-umbrella.h
